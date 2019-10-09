@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/Scenes/Main.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/mainscene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/result.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Scenes/zzz.unity
+  isLoaded: 0
+  isActive: 0
